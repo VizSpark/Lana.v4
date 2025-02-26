@@ -1,1 +1,7 @@
-
+title: Data Science Portfolio
+logo: /assets/Lana Image.jpg
+description: Showcasing my data science projects and skills.
+author: Lana Sisson
+show_downloads: false
+email: lana.sisson@outlook.com
+theme: jekyll-theme-minimal
